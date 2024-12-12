@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week6StringsAndArrays", "Week6StringsAndArrays\Week6StringsAndArrays.csproj", "{7468CAA0-2F5F-41F2-9019-B6385C7C042F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{B64FA5FD-B9F6-4208-A5C4-0665C9B5876D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7468CAA0-2F5F-41F2-9019-B6385C7C042F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7468CAA0-2F5F-41F2-9019-B6385C7C042F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7468CAA0-2F5F-41F2-9019-B6385C7C042F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7468CAA0-2F5F-41F2-9019-B6385C7C042F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64FA5FD-B9F6-4208-A5C4-0665C9B5876D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64FA5FD-B9F6-4208-A5C4-0665C9B5876D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64FA5FD-B9F6-4208-A5C4-0665C9B5876D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64FA5FD-B9F6-4208-A5C4-0665C9B5876D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
